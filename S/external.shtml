@@ -57,7 +57,7 @@
 <li> imapmigrate:        <a href="http://sourceforge.net/projects/cyrus-utils/">http://sourceforge.net/projects/cyrus-utils/</a></li>
 <li> larch:              <a href="https://github.com/rgrove/larch">https://github.com/rgrove/larch</a> (derived from wonko_imapsync, good at Gmail)</li>
 <li> wonko_imapsync:     <a href="http://web.archive.org/web/20130807173030/http://wonko.com/post/ruby_script_to_sync_email_from_any_imap_server_to_gmail">http://wonko.com/article/554</a> (superseded by larch)</li>
-<li> pop2imap:           <a href="http://www.linux-france.org/prj/pop2imap/">http://www.linux-france.org/prj/pop2imap/</a> (I wrote that too)</li>
+<li> pop2imap:           <a href="https://pop2imap.lamiral.info/">https://pop2imap.lamiral.info/</a> (I wrote that too)</li>
 <li> exchange-away:      <a href="http://exchange-away.sourceforge.net/">http://exchange-away.sourceforge.net/</a></li>
 <li> SyncBackPro:        <a href="http://www.2brightsparks.com/syncback/sbpro.html">http://www.2brightsparks.com/syncback/sbpro.html</a></li>
 

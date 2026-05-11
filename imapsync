@@ -939,7 +939,7 @@ List verified on Friday July 1, 2021.
  imapmigrate: http://sourceforge.net/projects/cyrus-utils/
  larch: https://github.com/rgrove/larch (derived from wonko_imapsync, good at Gmail)
  wonko_imapsync: http://wonko.com/article/554 (superseded by larch)
- pop2imap: http://www.linux-france.org/prj/pop2imap/ (I wrote that too)
+ pop2imap: https://pop2imap.lamiral.info/ (I wrote that too)
  exchange-away: http://exchange-away.sourceforge.net/
  SyncBackPro: http://www.2brightsparks.com/syncback/sbpro.html
  ImapSyncClient: https://github.com/ridaamirini/ImapSyncClient
